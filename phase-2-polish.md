@@ -1,6 +1,6 @@
 # Phase 2: Polish
 
-**Goal**: Transform a working site into a premium experience. Interactive diagrams, manual theme controls, progress tracking, playlist mode, and mobile-perfect audio. The phase where "good enough" becomes "people share this with their friends."
+**Goal**: Transform a working site into a polished experience. Interactive diagrams, manual theme controls, progress tracking, playlist mode, and mobile-perfect audio. The phase where "good enough" becomes "people share this with their friends."
 
 **Duration estimate**: 2-3 sessions
 

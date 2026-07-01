@@ -1,6 +1,6 @@
 # Phase 1: MVP
 
-**Goal**: A live, narrated knowledge site on GitHub Pages. 74 articles, browsable, searchable, with a "Read Aloud" button on every page. Custom theme that looks premium — not a default template.
+**Goal**: A live, narrated knowledge site on GitHub Pages. 74 articles, browsable, searchable, with a "Read Aloud" button on every page. Custom theme that looks polished — not a default template.
 
 **Duration estimate**: 1-2 sessions
 
@@ -143,7 +143,7 @@ Automated one-command sync from Obsidian vault to Astro content directory. Handl
 ## 1.3 Custom Theme & Design System
 
 ### Objective
-A premium, distinctive look — not a template. Educational, readable, with personality. Inspired by Tau's notebook aesthetic but our own identity.
+A polished, distinctive look — not a template. Educational, readable, with personality. Inspired by Tau's notebook aesthetic but our own identity.
 
 ### Design Tokens
 
@@ -460,7 +460,7 @@ Everything works together. No broken pages, no missing audio, no search failures
 ## Phase 1 Success Criteria
 
 - Site is live at `https://abster12.github.io/notes/`
-- All 74 articles are browsable with custom premium theme
+- All 74 articles are browsable with custom theme
 - Read Aloud works on every article with play/pause/stop/speed/voice
 - Full-text search works
 - Code blocks have syntax highlighting + copy buttons

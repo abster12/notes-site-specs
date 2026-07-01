@@ -1,6 +1,6 @@
 # Notes — Knowledge Audiobook Site
 
-A premium educational knowledge site that transforms Obsidian notes into a browsable, narrated learning experience. Built around Abhigyan's System Design (49 articles) and Coding Interview Prep (25 articles) vaults.
+An educational knowledge site that transforms Obsidian notes into a browsable, narrated learning experience. Built around Abhigyan's System Design (49 articles) and Coding Interview Prep (25 articles) vaults.
 
 ## Vision
 
@@ -43,9 +43,9 @@ Not just a blog. A full "learning experience" — every article is readable, bro
 | 0 | Content Review | Not Started | Audit, fix, enrich all 74 articles for web publication |
 | 1 | MVP | Not Started | Astro site, vault sync, custom theme, Read Aloud, basic search — live on GitHub Pages |
 | 2 | Polish | Not Started | Interactive diagrams, dark mode, progress tracking, playlist mode, mobile optimization |
-| 3 | Premium | Not Started | Neural TTS audio, runnable code, custom domain, analytics, community features |
+| 3 | Audio | Not Started | Neural TTS audio, runnable code, custom domain, analytics, community features |
 
-See `phase-0-content-review.md`, `phase-1-mvp.md`, `phase-2-polish.md`, `phase-3-premium.md` for detailed specs.
+See `phase-0-content-review.md`, `phase-1-mvp.md`, `phase-2-polish.md` for detailed specs.
 
 ## Tech Stack (Summary)
 
